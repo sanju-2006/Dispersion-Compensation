@@ -65,12 +65,14 @@ The main physical components of this layout are:
 - Record:  
   - Eye diagram  
   - Optical waveforms at transmitter output, junction between fibers, and receiver input  
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/3169ef5e-b7d0-4e84-a55a-ef83e97506f2" />
 
 ---
 
 ## Further Simulation and Analysis
 - Set the DCF length to 0 and run the simulation again.  
-- Record similar measurements for comparison.  
+- Record similar measurements for comparison.
+- 
 
 ---
 
